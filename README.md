@@ -7,7 +7,7 @@ webpack默认可以读取js文件和json文件
 ~~~js
 /**
  * webpack.config.js是webpack配置文件，只是webpack怎么干活，运行时会加载其中配置
- * 基于mode.js平台运行，模块化使用common.js
+ * 基于mode.js平台运行，模块化使  用common.js
  */
 
 //  暴露对象，在对象中写webpack配置
