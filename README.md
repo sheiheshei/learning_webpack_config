@@ -26,7 +26,7 @@ module.exports = {
         rules: [
             // 详细的loader配置
             {
-                //匹配那些文件
+                //匹配那 些文件
                 test: /\.css$/i,
                 //使用那些loader
                 use: [
