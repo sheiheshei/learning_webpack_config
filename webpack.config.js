@@ -32,7 +32,7 @@ module.exports = {
                 use: [
                     // 将js中的样式，创建style标签，将css样式放进去，最后添加到head中生效
                     // 'style-loader',
-                    //提取js中的css成为单独文件
+                    //提取js中的css成为单独 文件
                     {
                         loader: MiniCssExtractPlugin.loader,
                         options: {
